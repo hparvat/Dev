@@ -1,0 +1,9 @@
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("dev_1.0 versioin second file!");
+	}
+}
